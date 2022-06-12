@@ -7,6 +7,6 @@ The inspiration for the design of the website was heavily inspired by a [Fronten
 
 # Screenshots
 ## Desktop
-![Desktop Image](/screenshots/dekstop.png)
+![Desktop Image](screenshots/dekstop.png)
 ## Mobile
-![Desktop Image](/screenshots/dekstop.png)
+![Desktop Image](screenshots/dekstop.png)
